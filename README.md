@@ -37,4 +37,8 @@ python manage.py migrate
 python manage.py runserver
 ```
 
+# Author
+
+### Telegram: [CodeX2124](https://t.me/CodeX2124)   
+https://t.me/CodeX2124
 Thank You!
